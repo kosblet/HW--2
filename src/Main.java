@@ -60,5 +60,7 @@ var result2 = result+94 ;
         {System.out.println(result+94);}
 var result3 = result2*8;
         {System.out.println(result2*8);}
+
     }
 }
+
